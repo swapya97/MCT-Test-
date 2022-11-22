@@ -44,8 +44,7 @@ a:hover {
 }
 img {
   margin-right: 50px;
-  width: 120px;
-  border-radius:50% ;
+  width: 100px;
   filter: saturate(2);
 }
 @media screen and (max-width: 720px) {
