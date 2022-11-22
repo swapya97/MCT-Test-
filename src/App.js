@@ -8,7 +8,6 @@ function App() {
   useEffect((_) => {
     (async (_) => {
       const response = await contestapi.get("all");
-      console.log(response.data);
       setDetails(response.data);
     })();
   }, []);
