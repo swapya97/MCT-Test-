@@ -22,7 +22,7 @@
   justify-content: center;
   gap: 15px;
   width: 55vw;
-  height: 32vh;
+  height: 30vh;
   margin-left: 20px;
   margin-top: 10px;
 }
@@ -70,5 +70,8 @@ img {
     text-decoration: none;
     font-family: "Josefin Sans", sans-serif;
     
+  }
+  .singleContest {
+    margin-top: -10px;
   }
 }
