@@ -45,7 +45,7 @@ a:hover {
 img {
   margin-right: 50px;
   width: 100px;
-  filter: saturate(2);
+  filter: saturate(3);
 }
 @media screen and (max-width: 720px) {
   .totalContest {
