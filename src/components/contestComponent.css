@@ -56,7 +56,8 @@ img {
     background-color: #100d22;
     border-radius: 10px;
     border: solid 1px #3c419e;
-    font-size: 15px;
+    font-size: 10px;
+    
   }
   img {
     margin-right: 10px;
@@ -64,8 +65,10 @@ img {
     filter: saturate(7);
   }
   a {
+    font-size: 10px;
     color: #3c419e;
     text-decoration: none;
     font-family: "Josefin Sans", sans-serif;
+    
   }
 }
