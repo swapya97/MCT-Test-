@@ -21,7 +21,7 @@ const ContestComponent = ({ details,idx }) => {
           </a>
         </h3>
         <p>
-          Start date:
+          Start date: 
            {moment(details.start_time).subtract(10, "days").calendar()}{" "}
         </p>
         <p>Start time: {moment(details.start_time).format("h:mm:ss a")}</p>
