@@ -15,7 +15,7 @@ function App() {
   
   return (
     <main>
-      <h2>Coding Contest Calender</h2>
+      <h2>Coding Contest Calendar</h2>
       <hr/>
       <h1>Platforms</h1>
       {details.map((details, idx) => {
